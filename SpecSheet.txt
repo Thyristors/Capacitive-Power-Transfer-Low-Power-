@@ -1,7 +1,7 @@
 Speccing the toy vehicle for charging: 
 
 Intend to build the toy vehicle from scratch, therefore a 24V battery is a acceptible choice. 
-- 24V rechargiblebattery 
+- 24V rechargible battery {Possible lead-acid battery}
 
 The supply will be 230V @ 50Hz 
 
